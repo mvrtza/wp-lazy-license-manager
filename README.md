@@ -1,1 +1,1 @@
-'# WP Lazy LicenseManager' 
+# WP Lazy LicenseManager 
